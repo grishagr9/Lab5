@@ -13,3 +13,5 @@ C:\Users\Grisha\Source\Repos\Lab5\MyProject_gr9\MyProject_gr9\obj\Debug\net6.0\r
 C:\Users\Grisha\Source\Repos\Lab5\MyProject_gr9\MyProject_gr9\obj\Debug\net6.0\MyProject1.pdb
 C:\Users\Grisha\Source\Repos\Lab5\MyProject_gr9\MyProject_gr9\obj\Debug\net6.0\MyProject1.genruntimeconfig.cache
 C:\Users\Grisha\Source\Repos\Lab5\MyProject_gr9\MyProject_gr9\obj\Debug\net6.0\ref\MyProject1.dll
+C:\Users\Grisha\Source\Repos\Lab5\MyProject_gr9\MyProject_gr9\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\Grisha\Source\Repos\Lab5\MyProject_gr9\MyProject_gr9\obj\Debug\net6.0\MyProject1.csproj.CopyComplete

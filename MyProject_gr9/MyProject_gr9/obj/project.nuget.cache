@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKsbNuBZyENeqUn+0qXMiC6cJovQheW57xzAZvcNydSzczvw1zqoOxTkFdSXNNZmNStXiI8iIqTAzMf1Dlwviw==",
+  "dgSpecHash": "9PwTHRetHvFs92zXWY+xUfSINmwoEzGbAXXo37edDDpb2B+pJhAC4MbiGBtnLwijiQpTnVq0Hv31k85O6b0Raw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grisha\\Source\\Repos\\Lab5\\MyProject_gr9\\MyProject_gr9\\MyProject1.csproj",
+  "projectFilePath": "C:\\Users\\Grisha\\source\\repos\\Lab5\\MyProject_gr9\\MyProject_gr9\\MyProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grisha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Grisha\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
