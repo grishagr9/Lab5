@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 
-namespace MyProject_gr9
+namespace MyProject1
 {
     public class Program
     {
