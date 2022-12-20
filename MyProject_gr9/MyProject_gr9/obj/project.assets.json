@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grisha\\source\\repos\\MyProject_gr9\\MyProject_gr9\\MyProject_gr9.csproj",
+      "projectUniqueName": "C:\\Users\\Grisha\\Source\\Repos\\Lab5\\MyProject_gr9\\MyProject_gr9\\MyProject_gr9.csproj",
       "projectName": "MyProject_gr9",
-      "projectPath": "C:\\Users\\Grisha\\source\\repos\\MyProject_gr9\\MyProject_gr9\\MyProject_gr9.csproj",
+      "projectPath": "C:\\Users\\Grisha\\Source\\Repos\\Lab5\\MyProject_gr9\\MyProject_gr9\\MyProject_gr9.csproj",
       "packagesPath": "C:\\Users\\Grisha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grisha\\source\\repos\\MyProject_gr9\\MyProject_gr9\\obj\\",
+      "outputPath": "C:\\Users\\Grisha\\Source\\Repos\\Lab5\\MyProject_gr9\\MyProject_gr9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Grisha\\AppData\\Roaming\\NuGet\\NuGet.Config",
