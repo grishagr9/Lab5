@@ -14,7 +14,7 @@ namespace MyProject
         }
         static void Main(string[] args) {
             int a = 5;
-            int sdvsdv
+            int axaxaxaa
                 //int.Parse(Console.ReadLine());
             Console.WriteLine(Factorial(a));
         }
